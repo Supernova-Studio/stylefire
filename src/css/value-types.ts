@@ -15,6 +15,7 @@ const valueTypes: { [key: string]: ValueType } = {
   borderBottomColor: color,
   borderLeftColor: color,
   borderRadius: px,
+  borderWidth: px,
 
   // Positioning
   width: px,
